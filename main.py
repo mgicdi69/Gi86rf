@@ -30,8 +30,8 @@ from telegram.ext import (
 #    The requested layout is kept as 2 + 2 + 2 + Support.
 # ============================================================
 
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = {123456789}
+BOT_TOKEN = "8903481827:AAGyQYiiYnAAgFqeuvObgoSmAWedOYzvNds"
+ADMIN_IDS = {6995426618}
 
 DB_FILE = os.getenv("DB_FILE", "store.db")
 UPLOAD_DIR = Path(os.getenv("UPLOAD_DIR", "product_files"))
@@ -42,9 +42,10 @@ MAIL_INBOX_URL = "https://dongvanfb.net/get_code_mail/"
 PAYMENT_INFO = os.getenv(
     "PAYMENT_INFO",
     "💳 Payment Methods\n\n"
-    "bKash: YOUR_BKASH_NUMBER\n"
-    "Nagad: YOUR_NAGAD_NUMBER\n\n"
-    "টাকা পাঠানোর পর আপনার Transaction ID পাঠান।",
+    "bKash: 01627297924\n"
+    "Nagad: 01627297924\n\n"
+    "টাকা পাঠানোর পর আপনার Transaction ID পাঠান।\n
+    Only Sent Money Receivable.",
 )
 
 logging.basicConfig(
