@@ -264,7 +264,7 @@ def premiumize_html(text):
 # এখানে আপনার Bot Token এবং Admin ID বসান
 # ============================================================
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8903481827:AAF4NrO8El9pSZZsHGOp5bSmfv0qF42KITs")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8856510779:AAGebmkdR_rARymzcD6PTQLHNVQeHjnEhxA")
 
 # আপনার Telegram numeric User ID এখানে বসান
 # একাধিক Admin হলে: {123456789, 987654321}
