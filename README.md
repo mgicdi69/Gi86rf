@@ -1,0 +1,1 @@
+Railway-ready bot. Set BOT_TOKEN and ADMIN_IDS in Railway Variables.\nFor persistent SQLite data, mount a Volume at /data and set DB_FILE=/data/store.db.\n
